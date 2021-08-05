@@ -8,7 +8,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-### Part I - WeatherPy
+### Part I 
 
 In this section, I will be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilize a simple Python library(https://pypi.python.org/pypi/citipy), the OpenWeatherMap API(https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
@@ -32,7 +32,7 @@ The second requirement is to run linear regression on each relationship. This ti
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
-### Part II - VacationPy
+### Part II 
 
 Using jupyter-gmaps and the Google Places API for this part of the assignment.
 
