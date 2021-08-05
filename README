@@ -15,6 +15,7 @@ In this section, I will be creating a Python script to visualize the weather of 
 The first step is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
+
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
@@ -42,8 +43,6 @@ Now let's use your skills in working with weather data to plan future vacations.
 To complete this part of the assignment,you will need to do the following:
 
 * Create a heat map that displays the humidity for every city from Part I.
-
-  ![heatmap](Images/heatmap.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
